@@ -1,0 +1,7 @@
+Install this lib:
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
